@@ -1,3 +1,6 @@
+Hola kp bienvenido al menu🇵🇾
+_creador_:Cαrlosduαrte
+Instagram:https://instagram.com/mandioka_postin?utm_medium=copy_link
 exports.menu = (v) => {
   return `
 ┌─⊷ *MAIN* 
